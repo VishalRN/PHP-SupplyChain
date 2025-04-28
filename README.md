@@ -17,7 +17,7 @@ Live Site Link - [SupplyChain](https://react-travel-guide-phi.vercel.app/)
 - **Inventory Tracking**: Real-time monitoring of flour, sugar, and other bakery ingredients
 - **Order Management**: Automated processing of customer and retailer orders
 - **Supplier Portal**: Vendor communication and raw material procurement system
-- **Delivery Scheduling**: Route optimization for fresh product distributio
+- **Delivery Scheduling**: Route optimization for fresh product distribution
 
 ---
 ## Getting Started
