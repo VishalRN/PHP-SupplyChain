@@ -5,9 +5,6 @@ Welcome to **FreshBake**, a PHP and MySQL-based supply chain management system f
 ---
 ## Project Overview
 
-### Live Demo
-Live Site Link - [SupplyChain](https://react-travel-guide-phi.vercel.app/)
-
 ### Screenshots
 ![FreshBake](https://github.com/VishalRN/PHP-SupplyChain/blob/main/PHP-SupplyChain.png)
 
